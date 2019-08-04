@@ -73,8 +73,11 @@ https://play.golang.org/p/vxc3GgNZQJn
 > Hands-on-exercise #6
 https://play.golang.org/p/6RtAha2WqPg
 
+#level 7
 
-> Hands-on-exercise #7
+> Hands-on-exercise #2
+https://play.golang.org/p/0kngR2S8e2p
 
+#level 8
+> Hands-on-exercise #1
 
-> Hands-on-exercise #8
