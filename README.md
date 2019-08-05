@@ -79,5 +79,9 @@ https://play.golang.org/p/6RtAha2WqPg
 https://play.golang.org/p/0kngR2S8e2p
 
 #level 8
-> Hands-on-exercise #1
+> Hands-on-exercise #3
+https://play.golang.org/p/vhbEoCAw3kI
+
+> Hands-on-exercise #5
+https://play.golang.org/p/0JEcDq8eeDl
 
